@@ -3,7 +3,7 @@
 	"auth": "운영자",
 	"token": "sad150v6cx8gfdn2053df51g56s",
 	"sessionData": {
-		"side_menu": [
+		"sidemenu": [
 			{
 				"primary": "마스터 관리",
 				"icon": "masks",
