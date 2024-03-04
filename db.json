@@ -1,8 +1,8 @@
 {
-	"result": "1",
-	"auth": "운영자",
-	"token": "sad150v6cx8gfdn2053df51g56s",
-	"sessionData": {
-		"name" : "오뚜기"
-	}
+    "result": "1",
+    "auth": "운영자",
+    "token": "sad150v6cx8gfdn2053df51g56s",
+    "sessionData": [
+        { "name": "오뚜기" }
+    ]
 }
